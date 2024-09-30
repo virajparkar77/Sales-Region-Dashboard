@@ -1,2 +1,2 @@
 # Sales-Region-Dashboard
-The dashboard is a responsive dashboard that allows to perfom sales analysis on the basis of Geogeraphical region.
+This Region Wise Sales dashboard presents a comprehensive view of sales performance of different continents. It highlights the total units sold, along with the average unit price for various product categories. The dashboard also includes a visual comparison of items sold online versus offline, represented through pie charts for different categories. Additionally, it showcases the revenue and profit trends over a period of time using line graphs, providing insights into the overall sales performance and profitability trends in the region. The dashboard offers a clear, visual summary of key sales metrics and distribution patterns
